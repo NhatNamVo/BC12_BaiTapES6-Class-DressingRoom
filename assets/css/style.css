@@ -402,6 +402,7 @@ hr {
   width: 100%;
   position: relative;
   z-index: 5;
+  opacity: 1;
 }
 .setting::-webkit-scrollbar:hover{
   opacity: 1;
